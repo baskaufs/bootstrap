@@ -18,7 +18,7 @@ A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](h
 
 ## Exhibit timeline
 
-<iframe style="width:100vw; height:50vh;" scrolling="yes" frameborder="0" src="https://tinyurl.com/z4y5fjtt" ></iframe>
+<iframe style="width:90vw; height:50vh;" scrolling="yes" frameborder="0" src="https://tinyurl.com/z4y5fjtt" ></iframe>
 
 ### Create a repository from this template
 
