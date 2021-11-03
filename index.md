@@ -14,6 +14,8 @@ A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](h
 
 ## Setup Guide
 
+<iframe style="width:80vw; height:50vh;" scrolling="yes" frameborder="0" src="https://tinyurl.com/z9vmw4fu" ></iframe>
+
 ### Create a repository from this template
 
 [Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages) and click the `Use this template` button on the top right of the page.
