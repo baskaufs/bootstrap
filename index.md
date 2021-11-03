@@ -12,9 +12,13 @@ A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](h
 * Full support of Bootstrap's JavaScript plugins.
 * Supports all features of Github Pages and Jekyll.
 
-## Setup Guide
+## Exhibit map
 
 <iframe style="width:80vw; height:50vh;" scrolling="yes" frameborder="0" src="https://tinyurl.com/z9vmw4fu" ></iframe>
+
+## Exhibit timeline
+
+<iframe style="width:80vw; height:50vh;" scrolling="yes" frameborder="0" src="https://tinyurl.com/z4y5fjtt" ></iframe>
 
 ### Create a repository from this template
 
